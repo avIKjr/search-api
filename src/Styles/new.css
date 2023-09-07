@@ -1,0 +1,13 @@
+.a {
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  background-color: rgb(214, 214, 82);
+  border-radius: 10px;
+  box-shadow: 1px 4px 4px 4px black;
+  line-height: 100px;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+}

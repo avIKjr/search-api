@@ -1,0 +1,42 @@
+* {
+  margin: auto;
+  align-self: center;
+  align-items: center;
+  text-align: center;
+  margin-block: 20px;
+}
+.div {
+  background-color: rgb(226, 226, 153);
+  width: 80%;
+  border-radius: 20px;
+  padding: 5px;
+}
+td {
+  background-color: rgb(226, 226, 153);
+  padding: 5px;
+  font-size: larger;
+}
+.td {
+  font-weight: bolder;
+  color: blue;
+}
+button {
+  padding: 10px;
+  background-color: yellow;
+  border: none;
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  margin-inline: 10px;
+  border-radius: 8px;
+}
+input {
+  padding: 10px;
+  background-color: white;
+  border: none;
+  font-size: larger;
+  border-radius: 8px;
+}
+button:hover {
+  background-color: yellowgreen;
+}

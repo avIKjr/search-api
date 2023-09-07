@@ -1,0 +1,30 @@
+.main-box {
+  height: 250px;
+  width: 450px;
+  background-color: greenyellow;
+  align-self: center;
+  margin: auto;
+  border-radius: 10%;
+}
+h2 {
+  height: 50px;
+  width: 50px;
+  background-color: cyan;
+  margin: auto;
+  line-height: 50px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+button {
+  padding: 20px;
+  font-size: larger;
+  font-weight: bolder;
+  border: 4px solid black;
+  background-color: blueviolet;
+  color: white;
+  margin: 5px;
+  border-radius: 20%;
+}
+button:hover {
+  background-color: rgb(68, 3, 68);
+}
